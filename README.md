@@ -58,6 +58,7 @@ A classic number guessing game implemented in Python where players try to guess 
 ```sh
 └── roadmap-number-guessing-game/
     ├── LICENSE
+    ├── README.md
     └── main.py
 ```
 
@@ -72,6 +73,10 @@ A classic number guessing game implemented in Python where players try to guess 
 			<tr>
 				<td><b><a href='https://github.com/P-Nelly/roadmap-number-guessing-game/blob/master/main.py'>main.py</a></b></td>
 				<td>Main game implementation containing the NumberGuessingGame class and game logic</td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/P-Nelly/roadmap-number-guessing-game/blob/master/README.md'>README.md</a></b></td>
+				<td>Project documentation and setup instructions</td>
 			</tr>
 			</table>
 		</blockquote>
