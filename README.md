@@ -182,7 +182,7 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 ##  Acknowledgments
 
-- Built as part of the Python learning roadmap
+- Built as part of the Python learning roadmap: https://roadmap.sh/projects/number-guessing-game
 - Inspired by classic number guessing games
 - Uses Python's random and time modules from the standard library
 
